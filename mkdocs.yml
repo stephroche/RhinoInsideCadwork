@@ -1,7 +1,7 @@
 site_name: My Docs
 
 theme:
-  name: material
+  name: mkdocs-material/material
 
 nav:
     - RhinoInsideCadwork: index.md
