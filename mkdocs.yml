@@ -1,8 +1,7 @@
 site_name: My Docs
 
 theme:
-    name: mkdocs
-    nav_style: dark
+  name: material
 
 nav:
     - RhinoInsideCadwork: index.md
