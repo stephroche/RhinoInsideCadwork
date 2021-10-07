@@ -1,11 +1,13 @@
 site_name: My Docs
 
-theme:
-   name: material
-   palette:
-    - scheme: default
-      primary: green
-      accent: indigo
+# Documentation and theme
+theme_dir: material
+
+# Options
+extra:
+  palette:
+    primary: indigo
+    accent: indigo
 
 nav:
     - RhinoInsideCadwork: index.md
