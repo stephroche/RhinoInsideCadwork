@@ -26,3 +26,5 @@ c
 d
 
 e
+
+![Backup Text](img/gh.png "Grashhopper"){: style="width:700px"}
