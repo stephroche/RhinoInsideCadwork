@@ -3,3 +3,6 @@ site_name: My Docs
 theme:
     name: material
     nav_style: dark
+
+nav:
+    - RhinoInsideCadwork: index.md
