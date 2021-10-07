@@ -1,4 +1,3 @@
 # RhinoInsideCadwork
 
-- code coverage percentage: ![docs](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-
+[![Documentation Status](https://brunner246.github.io/RhinoInsideCadwork/)](https://brunner246.github.io/RhinoInsideCadwork/)
