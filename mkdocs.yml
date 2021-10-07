@@ -1,7 +1,9 @@
 site_name: My Docs
 
 theme:
-  name: mkdocs-material/material
+   name: mkdocs
+   palette:
+        primary: 'green'
 
 nav:
     - RhinoInsideCadwork: index.md
