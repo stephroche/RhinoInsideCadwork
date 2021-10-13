@@ -1,30 +1,26 @@
 # Welcome to RhinoInsideCadwork
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Run RhinoInsideCadwork
+
+RhinoInsideCadwork wird über **Extra -> Rhino Live Link** gestartet. 
+
+![GIF](img/run.gif){: style="width:900px"}
 
 ## Komponenten
 
-bild
+![Backup Text](img/comps.png "BREP"){: style="width:400px"}
 
-bild
+### Kontext-Menü
 
-bild
+Einige Komponenten bieten Funktionalitäten über das Kontext-Menü an. Das Kontext-Menü wird mittels Rechtsklick auf das Icon aufgerufen. <br>
 
-bild
+Über das Kontext-Menü lassen sich
+
+* Cadwork Elemente auswählen
+* Achsen von Cadwork Elementen auslesen
+* Preview 
+* Bake Elements <br>
+
+steuern. 
 
 
-## Project layout
-
-foo bar baz...
-
-a
-
-b
-
-c
-
-d
-
-e
-
-![Backup Text](img/gh.png "Grashhopper"){: style="width:700px"}
