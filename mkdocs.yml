@@ -1,13 +1,18 @@
-site_name: My Docs
+site_name: RhinoInsideCadwork
 
-# Documentation and theme
-theme_dir: material
-
-# Options
-extra:
-  palette:
-    primary: indigo
-    accent: indigo
+theme:
+   name: material
+   palette:
+    - scheme: default
+      primary: green
+      accent: indigo
 
 nav:
-    - RhinoInsideCadwork: index.md
+    - General: index.md
+    - Documentation:
+      - 01 Attributes / Selection: 01.md
+      - 02 Elements: 02.md
+      - 03 Architectural: 03.md
+
+markdown_extensions:
+  - attr_list  
