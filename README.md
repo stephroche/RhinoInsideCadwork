@@ -4,7 +4,7 @@ RhinoInsideCadwork is a module which enables a Live Link between Rhino/Grasshopp
 
 :rocket:
 
-## Installation
+## Installation/License
 
 Contact your local cadwork office (from release version 29)
 
