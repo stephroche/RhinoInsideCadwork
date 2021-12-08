@@ -1,11 +1,15 @@
 site_name: RhinoInsideCadwork
+repo_url: https://github.com/Brunner246/RhinoInsideCadwork
+
+# Copyright
+copyright: Copyright &copy; 2021 cadwork 
 
 theme:
-   name: material
-   palette:
-    - scheme: default
-      primary: green
-      accent: indigo
+    name: material
+    palette:
+      - scheme: default
+        primary: green
+        accent: indigo
 
 nav:
     - General: index.md

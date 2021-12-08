@@ -128,3 +128,23 @@ dmypy.json
 # Pyre type checker
 .pyre/
 gh-examples/.~example_plates.3d
+gh-examples/drillings.gh
+gh-examples/example_facade.3d
+gh-examples/example_facade.gh
+gh-examples/example_freeform.3d
+gh-examples/test.3d
+gh-examples/test_gh.gh
+gh-examples/infinite_cube.gh
+gh-examples/example_plates_1.3d
+gh-examples/example_plates_2.3d
+gh-examples/example_plates.gh
+gh-examples/facade.3d
+gh-examples/facade.gh
+gh-examples/FreeFromRoof.3dm
+gh-examples/FreeFromRoof.gh
+gh-examples/ImageSampler.gh
+gh-examples/infinite_cube.3d
+gh-examples/example_plates_1.3d
+gh-examples/example_plates.gh
+gh-examples/example_plates_1.3d
+gh-examples/example_plates.gh
