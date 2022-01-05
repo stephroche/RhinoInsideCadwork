@@ -6,17 +6,53 @@ copyright: Copyright &copy; 2021 cadwork
 
 theme:
     name: material
+    logo: cw_logo.svg
     palette:
       - scheme: default
         primary: green
         accent: indigo
 
-nav:
-    - General: index.md
-    - Documentation:
-      - 01 Attributes / Selection: 01.md
-      - 02 Elements: 02.md
-      - 03 Architectural: 03.md
 
 markdown_extensions:
   - attr_list  
+
+extra:
+  generator: false
+  copyright: Copyright & copy; 2021 cadwork
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Brunner246
+      name: RhinoInsideCadwork
+  alternate:
+    - name: Deutsch
+      link: ./de/
+      lang: de
+    - name: Français
+      link: ./fr/
+      lang: fr
+    - name: English
+      link: ./en/
+      lang: en
+
+plugins:
+  - search:
+      separator: '[\s\-\.\_]+'  
+  # - mkdocs-versioning:
+      # version: version 28.0
+  - i18n:
+      default_language: de
+      #default_language: !ENV [DEFAULT_LANGUAGE, "de"]
+      #default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
+      languages:
+        de: Deutsch
+        fr: Français   
+        en: English 
+      nav_translations:
+        fr:
+          Attribute: Attribute
+          Elemente: Elements
+          Architektur: Architecture
+        en:
+          Attribute: Attribute
+          Elemente: Elements
+          Architektur: Architecture
