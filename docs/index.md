@@ -4,6 +4,14 @@ RhinoInsideCadwork ist ein Tool, welches die Einbettung von Rhino 7 in cadwork 3
 
 ![Referenced GIF](img/beams_curve.gif "beams curve")
 
+## Add-on Download
+
+[food4Rhino - RHINOINSIDE FOR CADWORK 3D](https://www.food4rhino.com/en/app/rhinoinside-cadwork-3d?lang=de)
+
+Food4Rhino ist McNeels Community-Dienst für Plug-ins. Anwender finden hier die neuesten Rhino-Plug-ins, Grasshopper-Add-ons, Scripts und vieles mehr. Darüberhinaus können sie mit den Entwicklern Kontakt aufnehmen und ihre Anwendungen teilen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBh1UHg6ZHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Grasshopper
 
 Grasshopper ist ein grafischer Algorithmus-Editor, der in die Modellierungswerkzeuge von Rhino3D integriert ist. Sie verwenden Grasshopper, um Algorithmen zu entwerfen, die dann Aufgaben in Rhino3D automatisieren.
