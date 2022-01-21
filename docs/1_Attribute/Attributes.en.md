@@ -1,7 +1,7 @@
 ## Get BREP
 
-Ein Rechtsklick auf das Icon ruft das Kontext-Menü auf. 
-Mit der Funktion **Select Cadwork-Brep(s)** können cadwork Elemente selektiert werden. 
+A right click on the icon calls the context menu. 
+With the function **Select Cadwork-Brep(s)** cadwork elements can be selected. 
 
 ![Backup Text](../img/select_brep.png "BREP"){: style="width:600px"}
 
@@ -9,26 +9,26 @@ Mit der Funktion **Select Cadwork-Brep(s)** können cadwork Elemente selektiert 
 
 
 
-## Bauteilachsen
+## Component Axis
 
-Lokale Bauteilachsen werden über die **Axis** Komponente definiert. 
-Es wird ein X-, sowie ein Z-Vector angegeben. 
+Local component axes are defined via the **Axis** component. 
+An X vector and a Z vector are specified. 
 
 ![Backup Text](../img/axis1.png "Axis"){: style="width:600px"}
 
-Mit einem Rechtsklick auf das Icon kann im Kontext-Menü die Option **Select-Cadwork Axis** gewählt werden. Dies ermöglicht das Auslesen von Bauteilachsen. 
+With a right click on the icon the option **Select-Cadwork Axis** can be selected in the context menu. This enables the reading of component axes. 
 
 ![Backup Text](../img/axis2.png "Axis"){: style="width:600px"}
 
-Nachdem ein Bauteil mit **Select Cadwork-Axis** ausgewählt wurde, können die Vektoren gelesen werden. 
+After selecting a part with **Select Cadwork-Axis**, the vectors can be read. 
 
 ![Backup Text](../img/cross.png "Axis-Cross Product"){: style="width:600px"}
 
-## User Attribute
+## User Attributes
 
 ![Backup Text](../img/attr.png "Axis"){: style="width:600px"}
 
 
-## Standard Attribute
+## Standard Attributes
 
 ![Backup Text](../img/std_attr.png "Axis"){: style="width:600px"}
