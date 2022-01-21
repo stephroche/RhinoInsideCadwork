@@ -1,5 +1,5 @@
-Mit den Architektur Komponenten lassen sich in cadwork Architekturelemente erstellen. 
-Die Komponenten benötigen als Input eine Geometrie. Die Attribute können optional ergänzt werden. 
+With the architecture components architectural elements can be created in cadwork. 
+The components need a geometry as input. The attributes can be added optionally. 
 
 ## Roof
 

@@ -1,13 +1,13 @@
-# Beispiele
+# Examples
 
-## Definition eines Stab rechteckig
+## Create a beam rectangular
 
 [Download - Beispiel aus GitHub Repo](https://github.com/Brunner246/RhinoInsideCadwork/tree/main/gh-examples)
 
 ![Backup Text](../img/example_beam.png "BREP")
 
 
-## Definition eines Sweep - Stab rechteckig
+## Sweep - beam rectangular
 
 [Download - Beispiel aus GitHub Repo](https://github.com/Brunner246/RhinoInsideCadwork/tree/main/gh-examples)
 ![Backup Text](../img/SweepAlong.png "BREP")
