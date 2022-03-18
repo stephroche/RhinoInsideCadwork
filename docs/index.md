@@ -1,6 +1,14 @@
 # Willkommen zu RhinoInsideCadwork
+<br>
+<br>
+![Referenced SVG](img/logo-cadwork-animated.svg "get cadwork elements")
+<br>
+<br>
+<br>
+<br>
 
 RhinoInsideCadwork ist ein Tool, welches die Einbettung von Rhino 7 in cadwork 3D ermöglicht. Nutzen Sie die Vorteile des Flächenmodellieres in ihrer cadwork 3D Umgebung. 
+
 
 ![Referenced GIF](img/beams_curve.gif "beams curve")
 
@@ -14,7 +22,7 @@ Food4Rhino ist McNeels Community-Dienst für Plug-ins. Anwender finden hier die 
 
 ## Grasshopper
 
-Grasshopper ist ein grafischer Algorithmus-Editor, der in die Modellierungswerkzeuge von Rhino3D integriert ist. Sie verwenden Grasshopper, um Algorithmen zu entwerfen, die dann Aufgaben in Rhino3D automatisieren.
+Grasshopper :cricket: ist ein grafischer Algorithmus-Editor, der in die Modellierungswerkzeuge von Rhino3D integriert ist. Sie verwenden Grasshopper, um Algorithmen zu entwerfen, die dann Aufgaben in Rhino3D automatisieren.
 Der visuelle "Plug-and-Play"-Stil von Grasshopper gibt Designern die Möglichkeit, kreative Problemlösungen mit neuartigen Regelsystemen durch die Verwendung einer fließenden grafischen Oberfläche zu kombinieren.
 
 ![Backup Text](img/process.png "https://modelab.gitbooks.io/grasshopper-primer/content/1-foundations/1-2/2_grasshopper-component-parts.html"){: style="width:800px"}
@@ -31,13 +39,19 @@ Es gibt einige wenige Grasshopper-Komponenten, die Eingänge, aber keine Ausgän
 
 ## Run RhinoInsideCadwork
 
-RhinoInsideCadwork wird über **Extra -> Rhino Live Link** gestartet. 
+RhinoInsideCadwork :rhinoceros: wird über **Extra -> Rhino Live Link** gestartet. 
 
 ![GIF](img/run.gif){: style="width:900px"}
 
 ## Komponenten
 
-![Backup Text](img/comps.png "BREP"){: style="width:400px"}
+![Backup Text](img/comps.png "Components")
+
+Die Komponenten sind in vier Abschnitte gegliedert. <br>
+Im Abschnitt **Attributes** finden sich Komponenten zum Handling von Attributen.<br>
+Im Abschnitt **Select** finden sie alle Komponeten zur Selektierung von cadwork Elementen. <br>
+Im Abschnitt **Create Elements** sind die Komponenten zur Erstellung von cadwork Elementen zu finden. <br>
+Im letzten Abschnitt **Architecture** sind Komponenten zur Erstellung von Architekturelementen zu finden. 
 
 ### Kontext-Menü
 
@@ -46,10 +60,12 @@ Einige Komponenten bieten Funktionalitäten über das Kontext-Menü an. Das Kont
 Über das Kontext-Menü lassen sich
 
 * Cadwork Elemente auswählen
-* Achsen von Cadwork Elementen auslesen
 * Preview 
 * Bake Elements <br>
 
 steuern. 
 
 ![Referenced GIF](img/get_elements.gif "get cadwork elements")
+
+
+

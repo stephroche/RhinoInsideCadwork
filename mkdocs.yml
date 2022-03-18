@@ -6,15 +6,36 @@ copyright: Copyright &copy; 2021 cadwork
 
 theme:
     name: material
+    nav_style: dark
     logo: cw_logo.svg
+    version: v28
     palette:
-      - scheme: default
-        primary: green
-        accent: indigo
-
+    - scheme: default
+      toggle:
+        name: Switch to light mode
+        icon: material/weather-sunny
+    - scheme: slate
+      #primary: grey
+      #accent: blue
+      toggle:
+        name: Switch to dark mode
+        icon: material/weather-night
+    features:
+    - content.code.annotate
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
 
 markdown_extensions:
   - attr_list  
+  - footnotes:
+      SEPARATOR: _footnote_
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra:
   generator: false
@@ -33,16 +54,16 @@ extra:
     - name: English
       link: ./en/
       lang: en
+extra_css:
+  - extra/svg.css
+extra_css:
+  - stylesheets\extra.css
 
 plugins:
   - search:
       separator: '[\s\-\.\_]+'  
-  # - mkdocs-versioning:
-      # version: version 28.0
   - i18n:
       default_language: de
-      #default_language: !ENV [DEFAULT_LANGUAGE, "de"]
-      #default_language_only: !ENV [DEFAULT_LANGUAGE_ONLY, false]
       languages:
         de: Deutsch
         fr: Français   
