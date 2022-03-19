@@ -1,6 +1,13 @@
 # RhinoInsideCadwork
 
-RhinoInsideCadwork is a module which enables a Live Link between Rhino/Grasshopper and cadwork 3D. 
+
+RhinoInsideCadwork is a tool that allows you to embed Rhino 7 in cadwork 3D. Take advantage of the surface modeller in your cadwork 3D environment.
+
+Combining the two software allows the strengths of the CAD/CAM software to be combined with the strengths of Rhino/Grasshopper.
+
+Make your parametric model production-ready with Rhino.Inside Cadwork.
+
+https://www.food4rhino.com/en/app/rhinoinside-cadwork-3d
 
 :rocket:
 
