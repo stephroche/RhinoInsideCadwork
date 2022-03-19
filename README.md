@@ -24,6 +24,6 @@ Pull requests for GH examples are welcome. For major changes in the documentatio
 
 [![Documentation Status](https://readthedocs.org/projects/rhinoinsidecadwork/badge/?version=latest)](https://rhinoinsidecadwork.readthedocs.io/en/latest/?badge=latest)
 
-https://github.com/Brunner246/RhinoInsideCadwork/blob/main/docs/img/beams_curve.gif
+![My gif](https://github.com/Brunner246/RhinoInsideCadwork/blob/main/docs/img/beams_curve.gif)
 
 
