@@ -1,5 +1,5 @@
-Les composants d'architecture permettent de créer des éléments d'architecture dans cadwork. 
-Les composants nécessitent une géométrie comme entrée. Les attributs peuvent être complétés en option. 
+Mit den Architektur Komponenten lassen sich in cadwork Architekturelemente erstellen. 
+Die Komponenten benötigen als Input eine Geometrie. Die Attribute können optional ergänzt werden. 
 
 ## Roof
 
@@ -8,13 +8,13 @@ Les composants nécessitent une géométrie comme entrée. Les attributs peuvent
 Input           | comment 
 ----------------|:---------
 Geom | Brep closed
-CwAttr | Userattributes [optional]
-StdAttr | Standardattributes [optional]
+CwAttr | Userattribute [optional]
+StdAttr | Standardattribute [optional]
 
 
 Output           | comment 
 -----------------|:---------
-None | L'élément est généré dans cadwork
+None | Element wird in cadwork generiert
 
 ## Wall
 
@@ -23,13 +23,13 @@ None | L'élément est généré dans cadwork
 Input           | comment 
 ----------------|:---------
 Geom | Brep closed
-CwAttr | Userattributes [optional]
-StdAttr | Standardattributes [optional]
+CwAttr | Userattribute [optional]
+StdAttr | Standardattribute [optional]
 
 
 Output           | comment 
 -----------------|:---------
-None | L'élément est généré dans cadwork
+None | Element wird in cadwork generiert
 
 ## Floor/Slab
 
@@ -38,13 +38,13 @@ None | L'élément est généré dans cadwork
 Input           | comment 
 ----------------|:---------
 Geom | Brep closed
-CwAttr | Userattributes [optional]
-StdAttr | Standardattributes [optional]
+CwAttr | Userattribute [optional]
+StdAttr | Standardattribute [optional]
 
 
 Output           | comment 
 -----------------|:---------
-None | L'élément est généré dans cadwork
+None | Element wird in cadwork generiert
 
 ## Room
 
@@ -53,10 +53,10 @@ None | L'élément est généré dans cadwork
 Input           | comment 
 ----------------|:---------
 Geom | Brep closed
-CwAttr | Userattributes [optional]
-StdAttr | Standardattributes [optional]
+CwAttr | Userattribute [optional]
+StdAttr | Standardattribute [optional]
 
 
 Output           | comment 
 -----------------|:---------
-None | L'élément est généré dans cadwork
+None | Element wird in cadwork generiert

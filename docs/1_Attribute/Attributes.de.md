@@ -6,12 +6,12 @@ Für die cadwork Elemente lassen sich User Attribute erstellen. Diese können al
 
 Input           | comment 
 ----------------|:---------
-Name | String
-Group | String
-Subgroup | String
-Comment | String
-Edvcode | String
-User1-99 (Keys) | String <br>**Name des Attributs muss in cadwork vorhanden sein**.<br> Um das Attribut via Grasshopper zu erstellen muss das **Prefix cw_** vorangesetzt werden.
+Name | Name
+Group | Baugruppe
+Subgroup | Bauuntergruppe
+Comment | Bemerkung
+Edvcode | EDV - Code
+User1-99 (Keys) | User Attribute <br>**Name des Attributs muss in cadwork vorhanden sein**.<br> Um das Attribut via Grasshopper zu erstellen muss das **Prefix cw_** vorangesetzt werden.
 User1-99 (Values) | String 
 
 
@@ -24,7 +24,7 @@ OutputStdAttr | Rückgabe der erstellen cadwork Attribute
 
 ![Backup Text](../img/standard_attributes.jpg "Axis"){: style="width:600px"}
 
-Input           | Rückgabewert 
+Input           | comment 
 -----------------|:---------
 Material | Materialname
 Color | Farbnummer
@@ -181,9 +181,9 @@ Alle | 19133
 ### XSectionType
 
 Name           | Nummer (Integer) | comment
------------------|:---------
+-----------------|:---------|:---------
 Quadratischer Querrsch. | 1 | 
 Rechteckiger Querschnitt | 2 | 
 Runder Querschnitt | 3 | 
 Platte Rechteck | 17 | 
-Metall | 1000 | Achtung! Dieser SectionType darf nur<br> für in cadwork erstellten Metallprofilen verwendet werden.
+
