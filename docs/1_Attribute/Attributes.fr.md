@@ -185,5 +185,4 @@ Name           | Nummer (Integer) | comment
 Chaussure transversale carrée. | 1 | 
 Section rectangulaire | 2 | 
 Coupe transversale ronde | 3 | 
-Platte Rechteck | 17 | 
-Métal | 1000 | Attention ! Ce SectionType ne peut être <br>utilisé que pour les profilés métalliques créés dans cadwork.
+Plaque rectangulaire | 17 | 
