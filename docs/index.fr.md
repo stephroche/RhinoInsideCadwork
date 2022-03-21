@@ -43,7 +43,7 @@ RhinoInsideCadwork :rhinoceros : est lancé via **Extra -> Rhino Live Link**.
 
 ![GIF](img/run.gif){: style="width:900px"}
 
-## Komponenten
+## Composants
 
 ![Backup Text](img/comps.png "Components")
 
@@ -53,7 +53,7 @@ Dans la section **Select** vous trouverez tous les composants pour la sélection
 Dans la section **Create Elements**, on trouve les composants pour la création d'éléments cadwork. <br>
 Dans la dernière section **Architecture**, on trouve des composants pour la création d'éléments d'architecture. 
 
-### Kontext-Menü
+### Menu contextuel
 
 Certains composants proposent des fonctionnalités via le menu contextuel. Le menu contextuel est appelé par un clic droit sur l'icône. <br>
 
